@@ -1,0 +1,5 @@
+[build]
+rustflags = [
+  '--cfg', 'bsec_include_path="/home/paulw/BSEC_1.4.8.0_Generic_Release_updated_v3/algo/normal_version/inc/"',
+  '--cfg', 'bsec_library_path="/home/paulw/BSEC_1.4.8.0_Generic_Release_updated_v3/algo/normal_version/bin/gcc/Linux/x64/"',
+]
